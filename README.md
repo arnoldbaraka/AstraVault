@@ -18,10 +18,10 @@ AstraVault is a Zero Trust Security Platform engineered from the ground up to pr
 - Infra: Kubernetes (EKS/GKE), Terraform, Istio, Coroot
 
 ## Launch Timeline
-- **Week 1–2:** Core architecture + MVP scaffold
-- **Week 3–4:** Zero Trust engine + observability
-- **Week 5–6:** AI-enhanced anomaly detection
-- **Week 7–8:** Polish, deploy, and launch publicly
+-  Core architecture + MVP scaffold
+- Zero Trust engine + observability
+-AI-enhanced anomaly detection
+ -Polish, deploy, and launch publicly
 
 ## License
 Apache 2.0
